@@ -1,6 +1,8 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/mateus-zucco-4878361b7/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:zucco.developer@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/mtzucco/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/mateus-zucco-4878361b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=" target="_blank"></a>
+   <a href="mailto:zucco.developer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=" target="_blank"></a>
+   <a href="https://www.instagram.com/mtzucco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=" target="_blank"></a>
+ </div>
 
 <div align="center">
   <a href="https://github.com/MateusZucco">
