@@ -1,4 +1,6 @@
 ## Hello! My name is Mateus Zucco and I'm a Web Developer :)
+In my profile you will find projects and works like Telegram Bots, websites made with HTML, CSS and JS, Node.js and Express.js APIS, Vue.js Web 
+Applications and other things. ENJOY!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateus-zucco-4878361b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=" target="_blank"></a>
