@@ -17,6 +17,10 @@ Applications and other things. ENJOY!
 </div>
 
 <br>
+  
+![Snake animation](https://github.com/MateusZucco/MateusZucco/blob/output/github-contribution-grid-snake.svg)
+  
+<br>
  
 ## My front-end skills
 <div style="display: inline_block" align="center"><br>
@@ -37,5 +41,3 @@ Applications and other things. ENJOY!
 </div>
   
 <br>
-  
-![Snake animation](https://github.com/MateusZucco/MateusZucco/blob/output/github-contribution-grid-snake.svg)
