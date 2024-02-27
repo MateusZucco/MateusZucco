@@ -1,4 +1,5 @@
-## Hi, I'm Mateus Zucco, aka MtZucco. I work with backend development, implementing, testing and fixing bugs. In my profile you'll find logical algorithms, REST APIs, bots and other things I'm trying to learn.
+## Hi, I'm Mateus Zucco, aka MtZucco.
+I work with backend development, implementing, testing and fixing bugs. In my profile you'll find logical algorithms, REST APIs, bots and other things I'm trying to learn.
 
 
 Current focus: security, performance, database and devops 🚀🚀🚀
