@@ -21,22 +21,12 @@ Current focus: security, performance, database and devops 🚀🚀🚀
 <br>
   
  
-## My front-end skills
+## My main skills
 <div style="display: inline_block" align="center"><br>
-  <img align="center" height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center"  height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img align="center"  height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
-  <img align="center" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
   <img align="center" height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-</div>
-  
-## My back-end skills
-<div style="display: inline_block" align="center"><br>
    <img align="center"  height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
  <img align="center" height="110" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
- <img align="center" height="110" width="125" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg">
- <img align="center" height="90" width="125" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
  <img align="center" height="110" width="125" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
  <img align="center" height="110" width="125" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
 </div>
