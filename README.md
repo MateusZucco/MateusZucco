@@ -1,4 +1,5 @@
-## The life is like an API, you make requests and try receive a status 2** response :)
+### The life is like an API, you make requests and try receive a status 2** response :)
+<hr>
 HELLO! I'm Mateus Zucco, aka MtZucco, a Backend developer who implements API's, test routes, fixes bugs and always tries to learn new things...
 <br>
 I usually use JavaScript/TypeScript to create softwares, with performance and security, trying to use the best code pattern and keep the clean code in my apps.
