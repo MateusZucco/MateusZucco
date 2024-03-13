@@ -24,18 +24,26 @@ Current focus: RESTful, security, performance, database and devops 🚀🚀🚀
 
 <br>
  
-## My main skills
-<div style="display: inline_block" align="center"><br>
+### My main skills
+<hr>
+<div style="display: inline_block" align="center">
+  <h4>Languages</h4>
   <img align="center"  height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center"  height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" height="110" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <hr>
+  <h4>Plugins</h4>
+  <img align="center" height="110" width="125" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+  <img align="center" height="110" width="125" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg">
+  <hr>
+  <h4>Databases</h4>
   <img align="center" height="110" width="125" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" height="110" width="125" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" height="110" width="125" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <br>
+  <hr>
+  <h4>Others</h4>
   <img align="center" height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg">
   <img align="center" height="110" width="125" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  <img align="center" height="110" width="125" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+  <img align="center" height="110" width="125" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
 </div>
   
 <br>
