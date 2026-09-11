@@ -1,4 +1,4 @@
-### Here you will find a glimpse into my mind :blush:
+###  "Designing software is hard and will always be hard. No easy answers here!" - (David Parnas, 2008)
 <hr>
 HELLO! I'm Mateus Zucco, aka MtZucco, a Software developer who implements web application, API's, databases, fixes bugs and always tries to learn new things...
 <br>
